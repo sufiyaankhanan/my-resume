@@ -1,0 +1,28 @@
+p{
+    font: size 14;color:blueviolet;font-style: italic
+}
+h3{
+    color: blue
+    
+}
+body{
+    background-color:darksalmon
+}
+h1{
+    color: brown
+}
+img{
+    border-style: ridge;
+    border-width: 20px;
+    border-color: grey grey grey grey;
+}
+td,tr{
+    border: 1px solid black;
+}
+table{
+    background-color: rgb(208, 230, 12)
+}
+.X{
+    border: 0px
+}
+
